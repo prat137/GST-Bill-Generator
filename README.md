@@ -15,4 +15,4 @@ Anyoone can contribute to this code to make it more better and having better exp
 
 # Screenshot
 
-![Sample Image]http://thebookstore.epizy.com/Screen Shot 2017-12-13 at 10.58.43 AM.png
+![Sample Image]http://thebookstore.epizy.com/gst.png
