@@ -15,4 +15,7 @@ Anyoone can contribute to this code to make it more better and having better exp
 
 # Screenshot
 
-![Sample Image](http://thebookstore.epizy.com/gst.jpg)
+<p align="center">
+  <img src="http://thebookstore.epizy.com/gst.jpg" width="350"/>
+
+</p>
