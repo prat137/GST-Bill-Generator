@@ -74,7 +74,7 @@ $(document).ready(function() {
 function convertNumberToWords(amount) {
     var words = new Array();
     words[0] = '';
-    words[1] = 'One';
+    words[1] = 'Onee';
     words[2] = 'Two';
     words[3] = 'Three';
     words[4] = 'Four';
